@@ -27,7 +27,14 @@ our process:
    - we believe this may be because of this:
      <img width="1734" height="758" alt="image" src="https://github.com/user-attachments/assets/ca5eb4f6-4d6a-4026-ba75-9921cc4fc955" />
 
-   - instead, we felt it would be easier to host our own music player but programming it using HTML 
+   - instead, we felt it would be easier to host our own music player but programming it using HTML, CSS, and Javascript. This was able to be done by ChatGPT. It created it's own local server so music can also be streamed on a phone. Similar to the process of Musikcube, a user would just upload their music they want to play (in this case, royalty free music) and be able to play, shuffle, and repeat songs
+   - demo video: https://drive.google.com/file/d/1CmqlvUgj7kOTImQd-uv9fDlj-OLEFMLs/view?usp=sharing
+
+- to get it to work on a phone we started a local server through the terminal, then from the given port, we used an IP address to input into the link and host it on a phone:
+   <img width="1480" height="466" alt="image" src="https://github.com/user-attachments/assets/9edb71db-31de-4f29-9ce2-d0c9f1f52ddd" />
+
+
+iphone demo video: https://drive.google.com/file/d/1qK9t94RGXTa_aSM_d730BGJXO6B4vKMZ/view?usp=sharing
 
 
 
